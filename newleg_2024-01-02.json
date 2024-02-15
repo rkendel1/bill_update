@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6808",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "PFAS Risk-Communication Strategy Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6808?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6805",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "PFAS Action Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:49Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6805?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6787",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Las Vegas Wash Program Extension Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6787?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+        },
+        "number": "6781",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Marine Debris Act to reauthorize the Marine Debris Program of the National Oceanic and Atmospheric Administration.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6781?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+        },
+        "number": "6730",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Eliminate Congressional Slush Funds Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T13:31:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6730?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6719",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To provide for the conveyance of certain land, Dillard Road, Patoka Lake, Indiana, to the State of Indiana, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:43Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6719?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6708",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "DEEP Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:43Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6708?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6851",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Cooperation with ICE Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:34Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6851?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "6911",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "ROBERT MALLEY Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6911?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the House Committee on Foreign Affairs."
+        },
+        "number": "6910",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "BACKING the 2013 Brussels Agreement Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:22Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6910?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the House Committee on Foreign Affairs."
+        },
+        "number": "106",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for congressional disapproval of the proposed foreign military sale to the Kingdom of Saudi Arabia of certain defense articles and services.",
+        "type": "HJRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:44Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/106?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the House Committee on Foreign Affairs."
+        },
+        "number": "105",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for congressional disapproval of the proposed foreign military sale to the United Arab Emirates of certain defense articles and services.",
+        "type": "HJRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:44Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/105?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-29",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "6907",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Parental Workforce Training Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6907?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-29",
+            "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Foreign Affairs, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "6909",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "COBALT Supply Chain Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6909?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-29",
+            "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "6908",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Jury Duty Exemption for Breastfeeding Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6908?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-26",
+            "text": "Became Public Law No: 118-34."
+        },
+        "number": "6503",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Airport and Airway Extension Act of 2023, Part II",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:52Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6503?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-26",
+            "text": "Became Public Law No: 118-33."
+        },
+        "number": "2839",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Confederated Tribes of Siletz Indians, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2839?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-26",
+            "text": "Became Public Law No: 118-32."
+        },
+        "number": "1722",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Grand Ronde Reservation Act Amendment of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/1722?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Became Public Law No: 118-31."
+        },
+        "number": "2670",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "National Defense Authorization Act for Fiscal Year 2024",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:00:41Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2670?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the Subcommittee on Health."
+        },
+        "number": "6844",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Ensuring PBM Competition Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:34Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6844?format=json"
+    }
+]

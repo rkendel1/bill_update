@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+        },
+        "number": "1939",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "FAA Reauthorization Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:27:14Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1939?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "3554",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "FAIRR Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T13:47:57Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3554?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "3441",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Terrorist Financing Prevention Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:46:53Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3441?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Indian Affairs. Hearings held."
+        },
+        "number": "3230",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Winnebago Land Transfer Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T13:18:57Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3230?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Indian Affairs. Hearings held."
+        },
+        "number": "3022",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "IHS Workforce Parity Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T13:18:57Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3022?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Indian Affairs. Hearings held."
+        },
+        "number": "2868",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to accept the request to revoke the charter of incorporation of the Lower Sioux Indian Community in the State of Minnesota at the request of that Community, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T13:18:57Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2868?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Indian Affairs. Hearings held."
+        },
+        "number": "2796",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T13:18:57Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2796?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Committee on Indian Affairs. Hearings held."
+        },
+        "number": "2385",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Tribal Access to Clean Water Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T13:18:57Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2385?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 333."
+        },
+        "number": "1727",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Chesapeake and Ohio Canal National Historical Park Commission Extension Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T23:41:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/1727?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3766",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend title XVIII of the Social Security Act to provide for outreach and education to Medicare benefeciaries to simplify access to information for family caregivers through 1-800-MEDICARE, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:54:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3766?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3765",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Public Health Service Act to reauthorize the Emergency Medical Services for Children program.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3765?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+        },
+        "number": "3761",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Food, Conservation, and Energy Act of 2008 to reauthorize the Farm and Ranch Stress Assistance Network and establish a national agricultural crisis hotline, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:54:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3761?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "3764",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to extend and authorize annual appropriations for the United States Commission on International Religious Freedom through fiscal year 2026.",
+        "type": "S",
+        "updateDate": "2024-02-10",
+        "updateDateIncludingText": "2024-02-10T09:08:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3764?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3763",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to direct the Attorney General to establish a grant program to establish, implement, and administer violent incident clearance and technology investigative methods, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:54:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3763?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+        },
+        "number": "3760",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Agricultural Credit Act of 1978 to authorize the Secretary of Agriculture to carry out emergency watershed protection measures on National Forest System land, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:54:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3760?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3762",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to prohibit certain discrimination against athletes on the basis of sex by State athletic associations, intercollegiate athletic associations, and covered institutions of higher education, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3762?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+        },
+        "number": "3759",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "CREATE Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:45:21Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3759?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "3758",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to address security vulnerabilities with respect to unmanned aircraft systems used by civilian Federal agencies, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:54:21Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3758?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3757",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Congenital Heart Futures Reauthorization Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:45:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3757?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3756",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "At HOME Services Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:45:21Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3756?format=json"
+    }
+]

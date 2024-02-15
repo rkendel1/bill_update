@@ -1,0 +1,305 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Referred to the House Committee on Appropriations."
+        },
+        "number": "6929",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Affordable Connectivity Program Extension Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:27Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6929?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6943",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "No AI FRAUD Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:22Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6943?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Referred to the House Committee on House Administration."
+        },
+        "number": "6930",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "SHINE Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:27Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6930?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "actionTime": "19:03:06",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "950",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for the hour of meeting of the House.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/950?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "actionTime": "19:02:34",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "949",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To inform the Senate that a quorum of the House has assembled.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/949?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "actionTime": "19:01:49",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "948",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for a committee to notify the President of the assembly of the House of Representatives.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/948?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on the Union Calendar, Calendar No. 279."
+        },
+        "number": "187",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Default Prevention Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/187?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "6927",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Debt Commission Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6927?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "953",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Congratulating the University of Michigan Wolverines on their undefeated season and for winning the 2024 National Collegiate Athletic Association Division I College Football Playoff National Championship Game.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/953?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "951",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Impeaching Lloyd James Austin III, Secretary of Defense, for high crimes and misdemeanors.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/951?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "6921",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Southern Border Farmers and Ranchers Protection Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:27Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6921?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6924",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Federal Bureau of Prisons Voting Assistance Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6924?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Rules."
+        },
+        "number": "952",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Amending the Rules of the House of Representatives to require the Clerk to read the Congressional Budget Office cost estimate of any bill immediately after the reading of the title of the bill.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/952?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "6928",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "CONNECT Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-10",
+        "updateDateIncludingText": "2024-02-10T08:15:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6928?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6926",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Safe and Open Streets Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6926?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Financial Services."
+        },
+        "number": "6922",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Securing Facilities for Mental Health Services Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6922?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S49)"
+        },
+        "number": "3564",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "GSA Disposal Process Tribal Parity Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T17:36:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3564?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+        },
+        "number": "3563",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Pardon Transparency to Protect Investigations Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:16:56Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3563?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 308."
+        },
+        "number": "2216",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Montana Sportsmen Conservation Act",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:07:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2216?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 307."
+        },
+        "number": "2149",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Blackfoot Clearwater Stewardship Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2149?format=json"
+    }
+]

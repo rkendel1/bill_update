@@ -1,0 +1,303 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 296."
+        },
+        "number": "1015",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1015?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 300."
+        },
+        "number": "2136",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Utah State Parks Adjustment Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2136?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 295."
+        },
+        "number": "924",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Chesapeake and Ohio Canal National Historical Park Commission Extension Act",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T23:41:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/924?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 297."
+        },
+        "number": "1059",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Big Bend National Park Boundary Adjustment Act",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1059?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 299."
+        },
+        "number": "2042",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Sloan Canyon Conservation and Lateral Pipeline Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2042?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 294."
+        },
+        "number": "384",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Springfield 1908 Race Riot National Monument Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/384?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Star Print ordered on the resolution."
+        },
+        "number": "514",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution congratulating the Florida State University Seminoles for winning the 2023 National Collegiate Athletic Association Division I Women's Soccer Championship.",
+        "type": "SRES",
+        "updateDate": "2024-01-18",
+        "updateDateIncludingText": "2024-01-18T19:15:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/514?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Became Public Law No: 118-25."
+        },
+        "number": "788",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Duck Stamp Modernization Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T17:39:42Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/788?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Became Public Law No: 118-24."
+        },
+        "number": "3315",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "National Guard and Reservists Debt Relief Extension Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/3315?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Became Public Law No: 118-27."
+        },
+        "number": "2787",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "5G SALE Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:45:05Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2787?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Became Public Law No: 118-26."
+        },
+        "number": "2747",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain reporting violations.",
+        "type": "S",
+        "updateDate": "2024-01-09",
+        "updateDateIncludingText": "2024-01-09T18:39:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2747?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Became Public Law No: 118-23."
+        },
+        "number": "1734",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "TRANQ Research Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:45Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/1734?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text: CR S6062-6063)"
+        },
+        "number": "423",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution recognizing the University of Iowa women's basketball team's historic \"Crossover at Kinnick\" game and the importance of women's sports.",
+        "type": "SRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:45:05Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/423?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the Committee on Environment and Public Works. (text: CR S6059)"
+        },
+        "number": "516",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution commemorating the 50th anniversary of the passage of the Endangered Species Act of 1973.",
+        "type": "SRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T17:36:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/516?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3557",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to require the Secretary of Health and Human Services to prepare a report that outlines a plan for completing a review of approved opioid analgesic drugs that considers the public health effects of such opioid drugs.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3557?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 273."
+        },
+        "number": "6245",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Holding Iranian Leaders Accountable Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6245?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 272."
+        },
+        "number": "5923",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Iran-China Energy Sanctions Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5923?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 271."
+        },
+        "number": "5921",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "No U.S. Financing for Iran Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5921?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 270."
+        },
+        "number": "6408",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of terrorist supporting organizations.",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6408?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "actionTime": "14:44:38",
+            "text": "Held at the desk."
+        },
+        "number": "3553",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to provide a retroactive effective date for the promotions of senior officers of the Armed Forces whose military promotions were delayed as a result of the suspension of Senate confirmation of such promotions.",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:35Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3553?format=json"
+    }
+]

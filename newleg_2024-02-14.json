@@ -1,0 +1,309 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Placed on the Union Calendar, Calendar No. 319."
+        },
+        "number": "1796",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Disaster Survivors Fairness Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T16:45:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/1796?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "17:26:15",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "3202",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Assad Regime Anti-Normalization Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T15:13:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/3202?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "17:19:38",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "994",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for consideration of the bill (H.R. 7160) to amend the Internal Revenue Code of 1986 to modify the limitation on the amount certain married individuals can deduct for State and local taxes, and providing for consideration of the resolution (H.Res. 987) denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes.",
+        "type": "HRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T15:13:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/994?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "17:19:36",
+            "text": "Rule H. Res. 994 failed passage of House."
+        },
+        "number": "987",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes.",
+        "type": "HRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:14:07Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/987?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "17:07:21",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "1009",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing consideration of the bill (H.R. 7176) to repeal restrictions on the export and import of natural gas.",
+        "type": "HRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T15:13:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/1009?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "17:07:20",
+            "text": "Rule H. Res. 1009 passed House."
+        },
+        "number": "7176",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Unlocking our Domestic LNG Potential Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:14:09Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7176?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "16:54:26",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "966",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Condemning rape and sexual violence committed by Hamas in its war against Israel.",
+        "type": "HRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T15:13:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/966?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "actionTime": "15:55:51",
+            "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+        },
+        "number": "5375",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Strengthening the Quad Act",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T14:58:56Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5375?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Ordered to be Reported by Voice Vote."
+        },
+        "number": "7321",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Federal Election Campaign Act of 1971 to modernize certain reporting requirements for electioneering communications, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:15:43Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7321?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote."
+        },
+        "number": "4486",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Hiring Preference for Veterans and Americans With Disabilities Act",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:14:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4486?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 6 - 3."
+        },
+        "number": "7319",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Internal Revenue Code of 1986 to prohibit 501(c)(3) organizations from providing direct funding to official election organizations and to amend the Help America Vote Act of 2002 to prohibit the District of Columbia from receiving or using funds or certain donations from private entities for the administration of a District of Columbia election, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:15:43Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7319?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Placed on the Union Calendar, Calendar No. 318."
+        },
+        "number": "3162",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Protecting American Voters Act",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T16:45:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/3162?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the House Committee on Foreign Affairs."
+        },
+        "number": "1012",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Condemning the treatment of Dr. Gubad Ibadoghlu by the Government of Azerbaijan and urging his immediate release, and for other purposes.",
+        "type": "HRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T16:45:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/1012?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "1011",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Recognizing the duty of the Federal Government to create a Federal job guarantee.",
+        "type": "HRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T16:45:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/1011?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the House Committee on Veterans' Affairs."
+        },
+        "number": "7347",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to report on whether the Secretary will include certain psychedelic drugs in the formulary of the Department of Veterans Affairs.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:28:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7347?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "7346",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Public Health Service Act to provide for the continued implementation of the Climate and Health program by the Centers for Disease Control and Prevention.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:28:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7346?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7353",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To provide temporary war risk insurance for certain commercial vessels operating importing goods to, or exporting goods from, Ukraine.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:28:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7353?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the Committee on Education and the Workforce, and in addition to the Committees on Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7359",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To provide a framework for the Bureau of Consumer Financial Protection and the Department of Education to coordinate in providing assistance to and serving borrowers seeking to resolve complaints related to their private education or Federal student loans, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:28:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7359?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the Committee on House Administration, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7356",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To require Members of Congress who advocate for providing military support for Ukraine to enlist in the armed forces and to serve on active duty in support of a contingency operation.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:28:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7356?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-14",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "7357",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To allow certain funds provided in response to the public health emergency with respect to COVID-19 to be made available for school security measures, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:28:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7357?format=json"
+    }
+]

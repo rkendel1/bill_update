@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "55",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Egypt of certain defense articles and services.",
+        "type": "SJRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:08:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/sjres/55?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "54",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Egypt of certain defense articles and services.",
+        "type": "SJRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:08:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/sjres/54?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+        },
+        "number": "3634",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to designate the facility of the United States Postal Service located at 3901 MacArthur Boulevard in New Orleans, Louisiana, as the \"Dr. Rudy Lombard Post Office Building\".",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:05:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3634?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "3633",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Flood Prevention Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3633?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+        },
+        "number": "3632",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Ending DHS Funding for Liberal Propaganda Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:16:56Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3632?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 309."
+        },
+        "number": "3392",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "AREA Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3392?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "7074",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "STOP Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T20:00:52Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7074?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Armed Services."
+        },
+        "number": "7060",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Military Spouse Job Continuity Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7060?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Natural Resources."
+        },
+        "number": "7066",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "DAMN Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7066?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "7059",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "ACCESS Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T14:45:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7059?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Natural Resources."
+        },
+        "number": "7067",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Flood Prevention Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7067?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Transportation and Infrastructure."
+        },
+        "number": "7065",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Priority for Water Supply and Conservation Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:22Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7065?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "977",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Recognizing the importance and contributions of National Board Certified Teachers.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/977?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "7062",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Farm and Food Cybersecurity Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7062?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "7064",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Farmers\u2019 Market Expansion Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:45:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7064?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7068",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "STAND Against Emerging Opioids Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T19:15:45Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7068?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Science, Space, and Technology."
+        },
+        "number": "7069",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Peer Support for Firefighters Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7069?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "7063",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To prohibit Federal funds from being made available to any pregnancy center that diverts people from accessing comprehensive and timely medical care from licensed medical professionals.",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T14:45:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7063?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Science, Space, and Technology."
+        },
+        "number": "7073",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Next Generation Pipelines Research and Development Act",
+        "type": "HR",
+        "updateDate": "2024-02-11",
+        "updateDateIncludingText": "2024-02-11T05:45:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7073?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-22",
+            "text": "Referred to the House Committee on Small Business."
+        },
+        "number": "7071",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend section 7(b) of the Small Business Act to make disaster loans available for damages caused by prolonged power outages, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7071?format=json"
+    }
+]

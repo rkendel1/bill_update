@@ -1,0 +1,305 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7275",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To establish a national mercury monitoring program, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T14:13:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7275?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7304",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title II of the Social Security Act to establish that benefits paid to a parent caring for the child of an individual who died while performing active duty as a member of the Armed Services are not subject to deductions under the retirement earnings test.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T14:13:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7304?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Referred to the House Committee on Transportation and Infrastructure."
+        },
+        "number": "114",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitting by the Federal Highway Administration relating to \"National Performance Management Measures; Assessing Performance of the National Highway System, Greenhouse Gas Emissions Measure\".",
+        "type": "HJRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T14:13:54Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/114?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7293",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Internal Revenue Code of 1986 to provide rules for automatic contribution retirement plans and arrangements.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T14:13:54Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7293?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-07",
+            "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7289",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To establish the Mississippi River Restoration and Resilience Initiative to carry out projects for the protection and restoration of the Mississippi River Corridor, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T14:13:54Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7289?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Became Public Law No: 118-38."
+        },
+        "number": "3427",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Overtime Pay for Protective Services Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T14:16:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3427?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 19."
+        },
+        "number": "262",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "ALERT Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T08:14:05Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/262?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 0."
+        },
+        "number": "7184",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Congressional Budget Office Data Access Act",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T08:14:13Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7184?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "actionTime": "18:56:05",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "999",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Electing a Member to a certain standing committee of the House of Representatives.",
+        "type": "HRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T05:46:10Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/999?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "actionTime": "18:55:23",
+            "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 250 - 180 (Roll no. 38)."
+        },
+        "number": "7217",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Israel Security Supplemental Appropriations Act, 2024",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T13:15:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7217?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "544",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution designating the week beginning February 5, 2024, as \"National Tribal Colleges and Universities Week\".",
+        "type": "SRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T02:58:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/544?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "actionTime": "18:46:10",
+            "text": "POSTPONED PROCEEDINGS - The Chair put the question on the motion to reconsider the vote on H. Res. 863, as amended, and by voice vote, announced that the ayes had prevailed. Mr. Moore (UT) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced."
+        },
+        "number": "863",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors.",
+        "type": "HRES",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T05:45:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/863?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Referred to the Committee on the Judiciary."
+        },
+        "number": "543",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution to express the sense of the Senate regarding the constitutional right of State Governors to repel the dangerous ongoing invasion across the United States southern border.",
+        "type": "SRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/543?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3743",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Internal Revenue Code of 1986 to treat transfers of appreciated property to certain tax-exempt organizations the same as transfers of appreciated property to political organizations.",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:05:35Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3743?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3741",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to prohibit the Secretary of Health and Human Services from restricting funding for pregnancy centers.",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:05:35Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3741?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 332."
+        },
+        "number": "5009",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "WILD Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T22:11:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5009?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3742",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Higher Education Act of 1965 to establish a community college and career training grant program.",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:05:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3742?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3740",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to reauthorize the residential substance use disorder treatment program, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T09:08:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3740?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported by Voice Vote."
+        },
+        "number": "7192",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To designate the facility of the United States Postal Service located at 333 West Broadway in Anaheim, California, as the \"Dr. William I. 'Bill' Kott Post Office Building\".",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T08:14:13Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7192?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported by Voice Vote."
+        },
+        "number": "6983",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To designate the facility of the United States Postal Service located at 15 South Valdosta Road in Lakeland, Georgia, as the \"Nell Patten Roquemore Post Office\".",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T08:14:12Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6983?format=json"
+    }
+]

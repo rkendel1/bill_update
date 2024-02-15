@@ -1,0 +1,303 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 26 - 20."
+        },
+        "number": "6609",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "TIGER Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6609?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 17."
+        },
+        "number": "2925",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Mining Regulatory Clarity Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T08:14:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2925?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported (Amended) by Unanimous Consent."
+        },
+        "number": "1829",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T08:14:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/1829?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-06",
+            "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 11."
+        },
+        "number": "6283",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "DRUG Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T20:45:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6283?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "actionTime": "19:08:18",
+            "text": "ASSUMING FIRST SPONSORSHIP - Mr. Davis (IL) asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 5408, a bill originally introduced by Representative Higgins (NY), for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection."
+        },
+        "number": "5408",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "SSI Savings Penalty Elimination Act",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T16:32:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5408?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "60",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of Turkiye of certain defense articles and services.",
+        "type": "SJRES",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T13:08:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/sjres/60?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Read twice and referred to the Committee on Rules and Administration."
+        },
+        "number": "3734",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to require submission of the National Security Strategy and the budget of the President before the President may deliver the State of the Union address.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:25:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3734?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3733",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to require the Secretary of Health and Human Services to conduct a national, evidence-based education campaign to increase public and health care provider awareness regarding the potential risks and benefits of human cell and tissue products transplants, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3733?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "542",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution supporting the observation of \"National Girls & Women in Sports Day\" on February 7, 2024, to raise awareness of and celebrate the achievements of girls and women in sports.",
+        "type": "SRES",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:05:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/542?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Received in the Senate."
+        },
+        "number": "6976",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Protect Our Communities from DUIs Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:17Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6976?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "6678",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Consequences for Social Security Fraud Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:17Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6678?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "7224",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, and Respond to Health and Wellness Training Program.",
+        "type": "HR",
+        "updateDate": "2024-02-06",
+        "updateDateIncludingText": "2024-02-06T14:59:07Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7224?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on Financial Services."
+        },
+        "number": "7238",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Housing Act of 1949 to extend the term of rural housing site loans and clarify the permissible uses of such loans.",
+        "type": "HR",
+        "updateDate": "2024-02-06",
+        "updateDateIncludingText": "2024-02-06T19:38:08Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7238?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "7241",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Rural Water System Disaster Preparedness and Assistance Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T20:00:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7241?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "7232",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To direct the Secretary of State to revoke the visas of students who have engaged in antisemitic activities, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T08:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7232?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "7231",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To prohibit Federal support for institutions of higher education that promote antisemitism, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T08:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7231?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "7234",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To ensure that the National Advisory Council on Indian Education includes at least 1 member who is the president of a Tribal College or University and to require the Secretaries of Education and Interior to consider the National Advisory Council on Indian Education's reports in the preparation of budget materials.",
+        "type": "HR",
+        "updateDate": "2024-02-06",
+        "updateDateIncludingText": "2024-02-06T18:49:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7234?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "7228",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title 17, United States Code, to expand the copyright protection provided to architectural works to golf courses, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-06",
+        "updateDateIncludingText": "2024-02-06T14:59:07Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7228?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7222",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Internal Revenue Code of 1986 to allow expenses for parents to be taken into account as medical expenses, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T16:32:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7222?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-05",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "7220",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "EB\u20135 Regional Center Program Advisory Committee Authorization Act",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T05:46:09Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7220?format=json"
+    }
+]

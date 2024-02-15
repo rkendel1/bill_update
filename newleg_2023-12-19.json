@@ -1,0 +1,306 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "actionTime": "14:44:34",
+            "text": "Held at the desk."
+        },
+        "number": "2228",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Building Chips in America Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T17:39:42Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2228?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "actionTime": "14:44:28",
+            "text": "Held at the desk."
+        },
+        "number": "474",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "REPORT Act",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/474?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "actionTime": "14:44:23",
+            "text": "Held at the desk."
+        },
+        "number": "382",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Puyallup Tribe of Indians Land Into Trust Confirmation Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/382?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "actionTime": "14:44:17",
+            "text": "Held at the desk."
+        },
+        "number": "195",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Keweenaw Bay Indian Community Land Claim Settlement Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/195?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 269."
+        },
+        "number": "6365",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Stopping Illicit Oil Shipments Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6365?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 268."
+        },
+        "number": "6367",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Armed Conflict Migration Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6367?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 267."
+        },
+        "number": "4765",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Exposing China\u2019s Support for the Taliban Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4765?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 265."
+        },
+        "number": "4655",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Businesses Over Activists Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4655?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 264."
+        },
+        "number": "4823",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "American FIRST Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4823?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 263."
+        },
+        "number": "4767",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Protecting Americans\u2019 Retirement Savings from Politics Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4767?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 262."
+        },
+        "number": "4841",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Keep Your Coins Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4841?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Placed on the Union Calendar, Calendar No. 261."
+        },
+        "number": "6231",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Department of Homeland Security Policy Issuance Review Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6231?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on Foreign Affairs."
+        },
+        "number": "940",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Recognizing the week of December 25, 2023, as the \"Week of the Fight Against Black Slavery in the Americas\".",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/940?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "6861",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "SAFE HOME Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6861?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on Homeland Security."
+        },
+        "number": "6876",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "CTPAT Pilot Program Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:34Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6876?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on Natural Resources."
+        },
+        "number": "6859",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Gabrielino/Tongva Nation Recognition Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6859?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "6849",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Cancelling Climate Crusaders Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:50Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6849?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "941",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Condemning the final agreement at the United Nations Climate Change Conference that encourages \"transitioning away from fossil fuels\".",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/941?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6868",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Protecting Women and Children Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6868?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-19",
+            "text": "Referred to the House Committee on Natural Resources."
+        },
+        "number": "6852",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Holcombe Rucker Park Landmark Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6852?format=json"
+    }
+]

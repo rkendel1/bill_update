@@ -1,0 +1,303 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-18",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7029",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Bubble Tax Modernization Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T21:00:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7029?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-18",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7052",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Unborn Child Support Act",
+        "type": "HR",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T14:30:47Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7052?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-18",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7035",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Death Tax Repeal Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T21:00:49Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7035?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent."
+        },
+        "number": "526",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution repealing standing orders relating to flowers in the Senate Chamber.",
+        "type": "SRES",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:14:00Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/526?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "525",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution expressing support for the designation of October 2023 as \"National Co-Op Month\" and commending the cooperative business model and the member-owners, businesses, employees, farmers, ranchers, and practitioners who use the cooperative business model to positively impact the economy and society.",
+        "type": "SRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:25:00Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/525?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "520",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution congratulating the University of Michigan Wolverines football team for winning the 2024 National Collegiate Athletic Association College Football National Championship.",
+        "type": "SRES",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T13:23:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/520?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3607",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Abortion Is Not Health Care Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T20:45:35Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3607?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3608",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Protecting Life in Health Savings Accounts Act",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T20:45:35Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3608?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "3606",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "National Earthquake Hazards Reduction Program Reauthorization Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3606?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on Environment and Public Works."
+        },
+        "number": "3605",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "EVAC Planning Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T17:36:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3605?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "actionTime": "17:18:59",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "957",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Denouncing the Biden administration's open-borders policies, condemning the national security and public safety crisis along the southwest border, and urging President Biden to end his administration's open-borders policies.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/957?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3604",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Safeguarding Charity Act",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3604?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Ordered to be Reported by Voice Vote."
+        },
+        "number": "6474",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Energy Policy Act of 2005 to expedite geothermal exploration and development in previously studied or developed areas.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:07:02Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6474?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3603",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Preventing Illicit Finance Through Partnership Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3603?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3602",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Preserving Safe Communities by Ending Swatting Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T20:45:43Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3602?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Ordered to be Reported by Unanimous Consent."
+        },
+        "number": "6443",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Jamul Indian Village Land Transfer Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:59Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6443?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Ordered to be Reported (Amended) by Unanimous Consent."
+        },
+        "number": "5874",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "TAAP Act",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T13:32:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5874?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Ordered to be Reported (Amended) by Unanimous Consent."
+        },
+        "number": "5770",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Water Data Improvement Act",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T13:32:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5770?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 17."
+        },
+        "number": "5482",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Energy Poverty Prevention and Accountability Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T14:47:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5482?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Ordered to be Reported (Amended) by Unanimous Consent."
+        },
+        "number": "2950",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Coastal Habitat Conservation Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T13:32:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2950?format=json"
+    }
+]

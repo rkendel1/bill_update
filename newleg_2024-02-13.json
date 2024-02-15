@@ -1,0 +1,304 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "actionTime": "16:22:07",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "4039",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "No Dollars To Uyghur Forced Labor",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:45:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4039?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "actionTime": "16:10:32",
+            "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+        },
+        "number": "2766",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Uyghur Policy Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T19:25:03Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2766?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Placed on the Union Calendar, Calendar No. 315."
+        },
+        "number": "2426",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Find and Protect Foster Youth Act",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2426?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Placed on the Union Calendar, Calendar No. 314."
+        },
+        "number": "6276",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "USE IT Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6276?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Placed on the Union Calendar, Calendar No. 313."
+        },
+        "number": "7128",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "The WOSB Integrity Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7128?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Placed on the Union Calendar, Calendar No. 312."
+        },
+        "number": "6156",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Child Care Small Business Insight and Improvement Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6156?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Placed on the Union Calendar, Calendar No. 311."
+        },
+        "number": "5450",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Small Business Act to modify the application of price evaluation preference for qualified HUBZone small business concerns to certain contracts, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5450?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 118-380, Part I."
+        },
+        "number": "3722",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Daniel J. Harvey, Jr. and Adam Lambert Improving Servicemember Transition to Reduce Veteran Suicide Act",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T19:25:03Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/3722?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7323",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to disapprove courses of education offered by a public institution of higher learning that does not charge the in-State tuition rate to a veteran using certain educational assistance under title 10 of such Code.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:14:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7323?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on Veterans' Affairs."
+        },
+        "number": "7340",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title 38, United States Code, to make certain improvements to the laws relating to the recognition of agents, attorneys, organizations and their representatives, and other individuals for the purposes of assisting in the preparation, presentation, and prosecution of claims for benefits under the laws administered by the Secretary of Veterans Affairs, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7340?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "7329",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title 5, United States Code, to establish Election Day as a legal public holiday, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7329?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on Veterans' Affairs."
+        },
+        "number": "7342",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To establish the Veterans Advisory Committee on Equal Access, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7342?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "7322",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Immigration and Nationality Act with respect to enforcement by an attorney general of a State.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:15:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7322?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7331",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To establish a FISA Oversight Office for applications under the Foreign Intelligence Surveillance Act of 1978.",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7331?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "7324",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7324?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7325",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To address the housing crisis through bold investments to increase and preserve the national affordable housing supply, paths to homeownership, and perpetual affordability through shared equity housing and community land trust models, investigating landlord price fixing, and providing relief for rural renters, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:15:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7325?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "7320",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Reforming Intelligence and Securing America Act",
+        "type": "HR",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T04:45:36Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7320?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "7327",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend title XIX of the Social Security Act to ensure adequate consideration of payment rates for multimission hospitals under the Medicaid program, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7327?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "7344",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To amend the Richard B. Russell National School Lunch Act to expand the use of salad bars in schools.",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7344?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-13",
+            "text": "Referred to the House Committee on Veterans' Affairs."
+        },
+        "number": "7333",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To name the Department of Veterans Affairs medical center in West Palm Beach, Florida, as the \"Thomas H. Corey VA Medical Center\".",
+        "type": "HR",
+        "updateDate": "2024-02-14",
+        "updateDateIncludingText": "2024-02-14T16:45:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7333?format=json"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 306."
+        },
+        "number": "2018",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Connect Our Parks Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2018?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 302."
+        },
+        "number": "507",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Ralph David Abernathy, Sr., National Historic Site Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/507?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 305."
+        },
+        "number": "1405",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Utah School and Institutional Trust Lands Administration Exchange Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1405?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 301."
+        },
+        "number": "432",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Nulhegan River and Paul Stream Wild and Scenic River Study Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/432?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 304."
+        },
+        "number": "961",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Salem Maritime National Historical Park Redesignation and Boundary Study Act",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/961?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 303."
+        },
+        "number": "608",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Deerfield River Wild and Scenic River Study Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/608?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Read twice and referred to the Committee on Veterans' Affairs."
+        },
+        "number": "3562",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to designate the medical center of the Department of Veterans Affairs in Tomah, Wisconsin, as the \"Jason Simcakoski Department of Veterans Affairs Medical Center\".",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:28:10Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3562?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+        },
+        "number": "3561",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "HOME Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3561?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "6915",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Public Lands Telecommunications Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6915?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "6917",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Security Clearance Improvement Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6917?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on House Administration."
+        },
+        "number": "6913",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "OPEN Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6913?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "6916",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To require the Comptroller General of the United States to submit a report regarding outreach provided to veterans about the availability of supplemental nutrition assistance program benefits under the Food and Nutrition Act of 2008.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6916?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-09",
+            "text": "Read twice and referred to the Committee on Veterans' Affairs."
+        },
+        "number": "3560",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Combat Veterans Pre-Enrollment Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:28:10Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3560?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-08",
+            "text": "Read twice and referred to the Committee on Environment and Public Works."
+        },
+        "number": "3559",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Unplug the Electric Vehicle Charging Stations Program Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T17:36:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3559?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-03",
+            "text": "Referred to the House Committee on Transportation and Infrastructure."
+        },
+        "number": "946",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Recognizing Gold Shield Families and affirming that their sacrifices and difficulties should not be forgotten.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:45Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/946?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-03",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "945",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Congratulating Kappa Alpha Psi Fraternity, Inc., on the historic milestone of 113 years of serving local and international communities, maintaining a commitment to the betterment of mankind, and enriching the lives of collegiate men throughout the United States.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/945?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "923",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Designating the main hearing room of the Committee on Transportation and Infrastructure as the \"Chairman Don Young Hearing Room\".",
+        "type": "HRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:12:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/923?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+        },
+        "number": "6872",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Hydrogen for Ports Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6872?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Aviation."
+        },
+        "number": "6850",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Safe Landings Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:34Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6850?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-02",
+            "text": "Referred to the Subcommittee on Highways and Transit."
+        },
+        "number": "6820",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Small Business Contracting Fairness Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:48Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6820?format=json"
+    }
+]

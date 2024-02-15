@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-09",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "1008",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Supporting the designation of a \"Boy Scouts of America Day\" in celebration of its 114th anniversary.",
+        "type": "HRES",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T16:45:33Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/1008?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-09",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "1006",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Recognizing the birthday of legendary reggae artist Robert \"Bob\" Nesta Marley.",
+        "type": "HRES",
+        "updateDate": "2024-02-11",
+        "updateDateIncludingText": "2024-02-11T05:45:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/1006?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-09",
+            "text": "Referred to the House Committee on Financial Services."
+        },
+        "number": "7310",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To require the Secretary of Housing and Urban Development to provide a disclosure notice to homebuyers of properties owned by the Department of Housing and Urban Development that are located in special flood hazard areas, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-11",
+        "updateDateIncludingText": "2024-02-11T14:13:54Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7310?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-09",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "7315",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To direct the Secretary of Labor to support the development of pre-apprenticeship programs in the building and construction trades that serve underrepresented populations, including individuals from low income and rural census tracts.",
+        "type": "HR",
+        "updateDate": "2024-02-11",
+        "updateDateIncludingText": "2024-02-11T14:13:54Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7315?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "552",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution to authorize testimony and representation in People of the State of Michigan v. Berden, et al.",
+        "type": "SRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T02:44:04Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/552?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "551",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution celebrating Black History Month.",
+        "type": "SRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T02:44:01Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/551?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "550",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution supporting the goals and ideals of \"Career and Technical Education Month\".",
+        "type": "SRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T02:44:10Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/550?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "549",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution expressing support for the designation of February 17 through February 24, 2024, as \"National FFA Week\", recognizing the important role of the National FFA Organization in developing the next generation of globally conscious leaders who will change the world, and celebrating the 10th anniversary of the \"Give the Gift of Blue\" program, which has donated more than 17,000 of the iconic FFA blue jackets to FFA members in need.",
+        "type": "SRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T02:44:12Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/549?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+        },
+        "number": "548",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution designating the week of February 5 through 9, 2024, as \"National School Counseling Week\".",
+        "type": "SRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T02:44:09Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/548?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "3792",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to expand the functions of the National Institute of Standards and Technology to include workforce frameworks for critical and emerging technologies, to require the Director of the National Institute of Standards and Technology to develop an artificial intelligence workforce framework, and periodically review and update the National Initiative for Cybersecurity Education Workforce Framework for Cybersecurity, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3792?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Environment and Public Works."
+        },
+        "number": "3791",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to reauthorize the America's Conservation Enhancement Act, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3791?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+        },
+        "number": "3790",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to make additional Federal public land available for selection under the Alaska Native Vietnam era veterans land allotment program, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3790?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Environment and Public Works."
+        },
+        "number": "3789",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to make additional Federal public land available for selection under the Alaska Native Vietnam era veterans land allotment program, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3789?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "3788",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to reauthorize the National Landslide Preparedness Act, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3788?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3787",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to amend the Internal Revenue Code of 1986 to increase the credit for employers establishing workplace child care facilities, to increase the child care credit to encourage greater use of quality child care services, to provide incentives for students to earn child care-related degrees and to work in child care facilities, and to increase the exclusion for employer-provided dependent care assistance.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3787?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+        },
+        "number": "3786",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to provide for the standardization, publication, and accessibility of data relating to public outdoor recreational use of Federal waterways, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3786?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Referred to the Committee on Foreign Relations."
+        },
+        "number": "547",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution acknowledging the two-year anniversary of Russia's further invasion of Ukraine and expressing support for the people of Ukraine.",
+        "type": "SRES",
+        "updateDate": "2024-02-15",
+        "updateDateIncludingText": "2024-02-15T12:45:20Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/547?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+        },
+        "number": "3783",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to require the Committee on Foreign Investment in the United States to respond to the Governor of a State who requests a determination with respect to whether a transaction would trigger a review by the Committee.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3783?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3785",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to support rural coastal and maritime economic development, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3785?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-02-08",
+            "text": "Read twice and referred to the Committee on Armed Services."
+        },
+        "number": "3782",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to require regular briefings on efforts to capture or kill the leadership of the Jalisco New Generation Cartel.",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T09:08:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3782?format=json"
+    }
+]

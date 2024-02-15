@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-17",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "7010",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Increasing Access to Foster Care Through Age 21 Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7010?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Motion to table the motion to discharge S. Res. 504 agreed to in Senate by Yea-Nay Vote. 72 - 11. Record Vote Number: 8."
+        },
+        "number": "504",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
+        "type": "SRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:08:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/504?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+        },
+        "number": "3593",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Truckee Meadows Public Lands Management Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:21Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3593?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+        },
+        "number": "3592",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Business of Insurance Regulatory Reform Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:40Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3592?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "540",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Taiwan Non-Discrimination Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/540?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "839",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "China Exchange Rate Transparency Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/839?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "4768",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "No Russian Agriculture Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:41Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4768?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+        },
+        "number": "6370",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "OFAC Licensure for Investigators Act",
+        "type": "HR",
+        "updateDate": "2024-02-10",
+        "updateDateIncludingText": "2024-02-10T09:08:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6370?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+        },
+        "number": "803",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "PROTECT Taiwan Act",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:46Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/803?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate."
+        },
+        "number": "98",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to \"Standard for Determining Joint Employer Status\".",
+        "type": "HJRES",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/98?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+        },
+        "number": "3591",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Stop Fentanyl at the Border Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:16:56Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3591?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3589",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Preventing Private Paramilitary Activity Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3589?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3590",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "SEWAGE GARLIC Imports Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3590?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "788",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Stop Settlement Slush Funds Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:41Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/788?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Placed on the Union Calendar, Calendar No. 284."
+        },
+        "number": "5863",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Federal Disaster Tax Relief Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5863?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6999",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Holding Prosecutors Accountable Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6999?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on House Administration."
+        },
+        "number": "6996",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Block Foreign-Funded Political Ads Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6996?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on Financial Services."
+        },
+        "number": "7000",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Business of Insurance Regulatory Reform Act of 2024",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7000?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on Small Business."
+        },
+        "number": "6998",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "FAITH in Small Business Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6998?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on Rules."
+        },
+        "number": "967",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Amending the Rules of the House of Representatives to permit Members to vote by proxy in certain cases, and for other purposes.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/967?format=json"
+    }
+]

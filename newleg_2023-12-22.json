@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on House Administration."
+        },
+        "number": "6894",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Stop Scam PACs Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6894?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on House Administration."
+        },
+        "number": "6893",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "SCAM PAC Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6893?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Armed Services."
+        },
+        "number": "6897",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Synthetic Biology and Active Pharmaceutical Ingredients Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6897?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Armed Services."
+        },
+        "number": "6896",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To require a briefing on the national security threats associated with Chinese autonomous ground vehicles operating in the United States.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6896?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "6886",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Transparent Automated Governance Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6886?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Oversight and Accountability, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "6892",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Medical Nutrition Equity Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6892?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on House Administration."
+        },
+        "number": "6885",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Presidential Ballot Integrity Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6885?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Armed Services."
+        },
+        "number": "6895",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Defense Production and Active Pharmaceutical Ingredients Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6895?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "6881",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "AI Foundation Model Transparency Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6881?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "6905",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Building Collapse Prevention Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6905?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "6888",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Clean Energy Workforce Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6888?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on the Budget."
+        },
+        "number": "6889",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "True Cost Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6889?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the House Committee on Education and the Workforce."
+        },
+        "number": "6883",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Combating Hate Across Campus",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6883?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-22",
+            "text": "Referred to the Committee on Agriculture, and in addition to the Committees on Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+        },
+        "number": "6891",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "MORE USDA Grants Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6891?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-21",
+            "text": "Became Public Law No: 118-30."
+        },
+        "number": "64",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for the reappointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+        "type": "HJRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:25:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/64?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-21",
+            "text": "Became Public Law No: 118-29."
+        },
+        "number": "63",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for the appointment of Antoinette Bush as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+        "type": "HJRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:25:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/63?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-21",
+            "text": "Became Public Law No: 118-28."
+        },
+        "number": "62",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+        "type": "HJRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:25:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hjres/62?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6077; text: CR S6078)"
+        },
+        "number": "517",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution congratulating the Columbus Crew for winning the 2023 Major League Soccer Cup.",
+        "type": "SRES",
+        "updateDate": "2024-01-22",
+        "updateDateIncludingText": "2024-01-22T17:30:21Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/517?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+        },
+        "number": "3558",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A bill to prohibit contracting with certain biotechnology providers, and for other purposes.",
+        "type": "S",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T09:08:18Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3558?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2023-12-20",
+            "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 298."
+        },
+        "number": "2020",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Deschutes River Conservancy Reauthorization Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T18:38:38Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2020?format=json"
+    }
+]

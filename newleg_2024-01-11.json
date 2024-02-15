@@ -1,0 +1,303 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "2824",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Secure the Border Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:40:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2824?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "2059",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Strengthening Sanctions on Fentanyl Traffickers Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-12",
+        "updateDateIncludingText": "2024-02-12T21:00:37Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/2059?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "1532",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Alan T. Shao II Fentanyl Public Health Emergency and Overdose Prevention Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:40:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1532?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "1514",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "HELPER Act of 2023",
+        "type": "S",
+        "updateDate": "2024-02-10",
+        "updateDateIncludingText": "2024-02-10T14:34:35Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1514?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "1507",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "POWER Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:40:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1507?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "1271",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "FEND Off Fentanyl Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:20:09Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/1271?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+        },
+        "number": "993",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Combating Illicit Xylazine Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:40:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/993?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Sponsor introductory remarks on measure. (CR H67-68)"
+        },
+        "number": "6933",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Expanding Access to Lending Options Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:27Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6933?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+        },
+        "number": "3576",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "CONTAINER Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:21Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3576?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3574",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "National Fossil Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3574?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3575",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Dillon\u2019s Law",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3575?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Failed of passage in Senate over veto by Yea-Nay Vote. 54 - 45. Record Vote Number: 5."
+        },
+        "number": "32",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to \"Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)\".",
+        "type": "SJRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T13:42:07Z",
+        "url": "https://api.congress.gov/v3/bill/118/sjres/32?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Referred to the Committee on Foreign Relations. (text: CR S75-76)"
+        },
+        "number": "518",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A resolution expressing solidarity with the people of Guatemala and urging the Government of Guatemala to permit a peaceful transfer of power to President-elect Bernardo Arevalo.",
+        "type": "SRES",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:08:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/sres/518?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on Finance."
+        },
+        "number": "3573",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Medicare Advantage Supplemental Benefits Transparency Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3573?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "actionTime": "14:38:56",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "954",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Electing a Member to a certain standing committee for the House of Representatives.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/954?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+        },
+        "number": "3572",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Creative Workforce Investment Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T17:12:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3572?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3571",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Families\u2019 Rights and Responsibilities Act",
+        "type": "S",
+        "updateDate": "2024-02-09",
+        "updateDateIncludingText": "2024-02-09T18:47:49Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3571?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S75)"
+        },
+        "number": "3568",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "American Battlefield Protection Program Enhancement Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3568?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on the Judiciary."
+        },
+        "number": "3569",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Improving Efficiency to Increase Competition Act",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3569?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-10",
+            "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+        },
+        "number": "3566",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Federal Reserve Transparency Act of 2024",
+        "type": "S",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3566?format=json"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on Appropriations."
+        },
+        "number": "6995",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Funding A Secure America Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6995?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on Foreign Affairs."
+        },
+        "number": "966",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Condemning rape and sexual violence committed by Hamas in its war against Israel.",
+        "type": "HRES",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T05:45:19Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/966?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "968",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Calling on Congress to condemn voter suppression laws enacted by States and political subdivisions.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/968?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-16",
+            "text": "Referred to the House Committee on Agriculture."
+        },
+        "number": "7001",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Wabeno Economic Development Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:39Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7001?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on Oversight and Accountability."
+        },
+        "number": "963",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Supporting the goals and ideals of Korean American Day.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/963?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "6993",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Retirement Freedom Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T22:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6993?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6988",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Jane\u2019s Law",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6988?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6987",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Student Visa Security Improvement Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:24Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6987?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on Appropriations."
+        },
+        "number": "964",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Providing the sense of the House of Representatives that the House should not adjourn until the annual appropriation bills within the jurisdiction of all the subcommittees of the Committee on Appropriations for the current fiscal year are enacted into law.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/964?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "962",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Honoring Reverend Dr. Martin Luther King, Jr., by Celebrating Diversity, Promoting Tolerance, and Condemning Hate.",
+        "type": "HRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:29Z",
+        "url": "https://api.congress.gov/v3/bill/118/hres/962?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on the Judiciary."
+        },
+        "number": "6986",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To address patent thickets.",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6986?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on Natural Resources."
+        },
+        "number": "6989",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Blue Ridge Fire Safety Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6989?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "number": "6992",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "MAPS Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6992?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Referred to the House Committee on Ways and Means."
+        },
+        "number": "6990",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Digital Trade for Development Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6990?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-12",
+            "text": "Sponsor introductory remarks on measure. (CR H127)"
+        },
+        "number": "6965",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "EPIPEN Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6965?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Placed on the Union Calendar, Calendar No. 281."
+        },
+        "number": "3400",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Small Businesses before Bureaucrats Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/3400?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development."
+        },
+        "number": "5723",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Leveraging Efficiency Awareness for Pumping Systems Act",
+        "type": "HR",
+        "updateDate": "2024-02-05",
+        "updateDateIncludingText": "2024-02-05T11:45:06Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5723?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture."
+        },
+        "number": "5701",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "No Photo for Food Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-05",
+        "updateDateIncludingText": "2024-02-05T11:45:06Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5701?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit."
+        },
+        "number": "5698",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Assisting Family Farmers through Insurance Reform Measures Act",
+        "type": "HR",
+        "updateDate": "2024-02-05",
+        "updateDateIncludingText": "2024-02-05T11:45:06Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5698?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-11",
+            "text": "Referred to the Subcommittee on Forestry."
+        },
+        "number": "5665",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Promoting Accessibility on Federal Lands Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-07",
+        "updateDateIncludingText": "2024-02-07T13:32:55Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/5665?format=json"
+    }
+]

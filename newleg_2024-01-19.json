@@ -1,0 +1,303 @@
+[
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Became Public Law No: 118-35."
+        },
+        "number": "2872",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Further Additional Continuing Appropriations and Other Extensions Act, 2024",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T17:35:17Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/2872?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "7026",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Reducing Permitting Uncertainty Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7026?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "7008",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Judicial Review Timeline Clarity Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7008?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "7013",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Confidence in Clean Water Permits Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7013?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "7021",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Water Quality Criteria Development and Transparency Act",
+        "type": "HR",
+        "updateDate": "2024-02-13",
+        "updateDateIncludingText": "2024-02-13T19:15:31Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7021?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6997",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Disaster Contract Improvement Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6997?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6984",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To designate the Federal building located at 300 E. 3rd Street in North Platte, Nebraska, as the \"Virginia Smith Federal Building\", and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6984?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6975",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To designate the United States courthouse located at 500 West Pike Street in Clarksburg, West Virginia, as the \"Irene M. Keeley United States Courthouse\", and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6975?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Aviation."
+        },
+        "number": "6967",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Safe Airspace for Americans Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6967?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Highways and Transit."
+        },
+        "number": "6964",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To establish limitations on advanced payments for bus rolling stock, and for other purposes.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6964?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6932",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Low-Head Dam Inventory Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:27Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6932?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6931",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "NDSP Amendment Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:27Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6931?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6925",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Every Kid Outdoors Reauthorization Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6925?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Coast Guard and Maritime Transportation."
+        },
+        "number": "6923",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "States Helping Apprehend Rogue Exports Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6923?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6912",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To direct the Librarian of Congress to obtain a stained glass panel depicting the seal of the District of Columbia and install the panel among the stained glass panels depicting the seals of States, which overlook the Main Reading Room of the Library of Congress Thomas Jefferson Building.",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6912?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Water Resources and Environment."
+        },
+        "number": "6906",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "LAKES Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:28Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6906?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Highways and Transit."
+        },
+        "number": "6890",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "MORE DOT Grants Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:30Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6890?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Highways and Transit."
+        },
+        "number": "6884",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Fair Compensation for Truck Crash Victims Act",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6884?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-19",
+            "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+        },
+        "number": "6882",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "PREPARE Act of 2023",
+        "type": "HR",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:32Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6882?format=json"
+    },
+    {
+        "congress": 118,
+        "latestAction": {
+            "actionDate": "2024-01-18",
+            "actionTime": "17:29:48",
+            "text": "Motion to reconsider laid on the table Agreed to without objection."
+        },
+        "number": "25",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "A concurrent resolution providing for a correction in the enrollment of H.R. 2872.",
+        "type": "SCONRES",
+        "updateDate": "2024-02-08",
+        "updateDateIncludingText": "2024-02-08T16:06:26Z",
+        "url": "https://api.congress.gov/v3/bill/118/sconres/25?format=json"
+    }
+]
